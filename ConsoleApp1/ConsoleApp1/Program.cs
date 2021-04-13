@@ -8,8 +8,12 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             var abc = "something";
-            var bgd = "changed this something to something";
+
             var properVariableName = "khdakjdkgdk";
+            var bgd = "soemthing thing";
+            var bsc = "ksksk";
+            var fourthCommit = "new";
+            var fifthCommit = "new again";
 
 
 
@@ -18,6 +22,10 @@ namespace ConsoleApp1
         private void PrintName()
         {
             Console.WriteLine("hello");
+        }
+
+        private void newFunction(){
+            Console.Write("does something important");
         }
     }
 }
