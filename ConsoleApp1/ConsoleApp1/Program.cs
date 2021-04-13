@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             var abc = "something";
-            var bgd = "changed this something";
+            var bgd = "changed this something to something";
             var bsc = "khdakjdkgdk";
 
 
