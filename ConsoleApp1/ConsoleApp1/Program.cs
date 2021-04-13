@@ -9,7 +9,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             var abc = "something";
             var bgd = "soemthing thing";
-            var bsc = "ksksk";
+            var bsc = "khdakjdkgdk";
+
 
 
         }
