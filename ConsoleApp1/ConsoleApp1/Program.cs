@@ -6,14 +6,17 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!321");
+
+            var bgd = "soemthing thing";
+            var bsc = "khdakjdkgdk";
             var abc = "something";
-            var bgd = "changed this something to something";
             var properVariableName = "khdakjdkgdk";
 
-            var helo = "hello";
+            var helo = "hello00ooo";
 
 
+            var Yellow = "Blud";
         }
 
         private void PrintName()
