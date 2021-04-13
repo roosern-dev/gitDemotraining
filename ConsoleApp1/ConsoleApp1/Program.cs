@@ -11,7 +11,7 @@ namespace ConsoleApp1
             var bgd = "changed this something to something";
             var properVariableName = "khdakjdkgdk";
 
-
+            var animal = "cat";
 
         }
 
