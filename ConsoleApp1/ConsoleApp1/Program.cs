@@ -13,16 +13,18 @@ namespace ConsoleApp1
             var abc = "something";
 
 
-            var RuSernproperVariableName = "khdakjdkgdkRuSern";
+            var ShanyuproperVariableName = "khdakjdkgdkRuSern";
             var bgd = "soemthing thing";
-            var bsc = "ksksk";
+            var bac = "ksksk";
             var fourthCommit = "new";
-            var RuSernfifthCommit = "new again rusern";
+            var ShanyufifthCommit = "new again Shanyu";
 
             var helo = "hello00ooo";
 
 
+
             var RuSernYellow = "BlueYellowRS";
+
         }
 
         private void PrintName()
