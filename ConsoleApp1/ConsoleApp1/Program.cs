@@ -10,6 +10,13 @@ namespace ConsoleApp1
             var abc = "something";
             var bgd = "soemthing thing";
             var bsc = "ksksk";
+
+
+        }
+
+        private void PrintName()
+        {
+            Console.WriteLine("hello");
         }
     }
 }
