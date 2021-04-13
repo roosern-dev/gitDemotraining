@@ -10,10 +10,11 @@ namespace ConsoleApp1
 
             var bgd = "soemthing thing";
             var bsc = "khdakjdkgdk";
-            var abc = "something";
+            var abc = "somethig";
             var properVariableName = "khdakjdkgdk";
 
             var helo = "hello00ooo";
+            var rus = "rus";
 
 
             var Yellow = "Blud";
