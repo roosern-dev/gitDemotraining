@@ -6,8 +6,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!321");
+
+            var bgd = "soemthing thing";
+            var bsc = "khdakjdkgdk";
             var abc = "something";
+
 
             var properVariableName = "khdakjdkgdk";
             var bgd = "soemthing thing";
@@ -15,8 +19,10 @@ namespace ConsoleApp1
             var fourthCommit = "new";
             var fifthCommit = "new again";
 
+            var helo = "hello00ooo";
 
 
+            var Yellow = "Blud";
         }
 
         private void PrintName()
