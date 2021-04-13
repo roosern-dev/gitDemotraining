@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             var abc = "something";
             var bgd = "changed this something to something";
-            var properVariableName = "khdakjdkgdk";
+            var VariableName = "khdakjdkgdk";
 
             var animal = "cat";
 
