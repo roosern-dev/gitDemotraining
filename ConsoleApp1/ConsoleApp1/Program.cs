@@ -10,19 +10,32 @@ namespace ConsoleApp1
 
             var bgd = "soemthing thing";
             var bsc = "khdakjdkgdk";
+
             var abc = "somethig";
             var properVariableName = "khdakjdkgdk";
+
+
+            var RuSernproperVariableName = "khdakjdkgdkRuSern";
+            var bgd = "soemthing thing";
+            var bsc = "ksksk";
+            var fourthCommit = "new";
+            var RuSernfifthCommit = "new again rusern";
+
 
             var helo = "hello00ooo";
             var rus = "rus";
 
 
-            var Yellow = "Blud";
+            var RuSernYellow = "BlueYellowRuSern";
         }
 
         private void PrintName()
         {
             Console.WriteLine("hello");
+        }
+
+        private void newFunction(){
+            Console.Write("does something important");
         }
     }
 }
