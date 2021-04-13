@@ -7,12 +7,11 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            var abc = "something";
             var bgd = "soemthing thing";
             var bsc = "khdakjdkgdk";
 
 
-
+            var Yellow = "Blud";
         }
 
         private void PrintName()
