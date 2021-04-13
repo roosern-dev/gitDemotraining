@@ -22,7 +22,7 @@ namespace ConsoleApp1
             var helo = "hello00ooo";
 
 
-            var RuSernYellow = "BlueYellowRuSern";
+            var RuSernYellow = "BlueYellowRS";
         }
 
         private void PrintName()
