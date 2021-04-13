@@ -13,7 +13,7 @@ namespace ConsoleApp1
             var abc = "something";
             var properVariableName = "khdakjdkgdk";
 
-            var helo = "hello";
+            var helo = "hello00ooo";
 
 
             var Yellow = "Blud";
