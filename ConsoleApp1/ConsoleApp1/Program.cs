@@ -20,5 +20,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("hello");
         }
+
+        private void newFunction(){
+            Console.Write("does something important");
+        }
     }
 }
